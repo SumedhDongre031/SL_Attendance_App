@@ -1,0 +1,208 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+	<!-- 
+	/*
+	 *	This content is generated from the API File Info.
+	 *	(Alt+Shift+Ctrl+I).
+	 *
+	 *	@desc 		
+	 *	@file 		register
+	 *	@date 		Friday 04th of August 2023 06:05:23 AM
+	 *	@title 		2nd
+	 *	@author 	
+	 *	@keywords 	
+	 *	@generator 	Export Kit v1.3.figma
+	 *
+	 */
+	-->
+	<ScrollView android:id="@+id/register" 
+		android:layout_width="wrap_content" 
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container" 
+			android:layout_width="wrap_content" 
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_register_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__register_ek2"
+					android:background="@drawable/_bg__register_ek2_shape"
+					 android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="360dp"
+					android:layout_height="800dp" />
+
+				<View   android:id="@+id/rectangle_1"
+					android:background="@drawable/rectangle_1_shape"
+					 android:layout_marginStart="-21dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="399dp"
+					android:layout_height="25dp" />
+
+
+				<RelativeLayout android:id="@+id/frame_3"
+					android:layout_marginTop="107dp"
+					android:layout_marginStart="21dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					>
+
+					<TextView android:id="@+id/new_user___enter_your_details"
+						android:fontFamily="Patua One"
+						android:textSize="18sp"
+						android:textColor="@color/rectangle_1_color"
+						android:layout_marginLeft="29dp"
+						android:layout_marginTop="23dp"
+						android:layout_width="282dp"
+						android:layout_height="72dp"
+						android:text="@string/new_user___enter_your_details_string"
+						 />
+
+					<ImageView android:id="@+id/login_id_space"
+						android:src="@drawable/login_id_space"
+						android:contentDescription="login_id_space"
+						 android:layout_marginStart="22dp"
+						android:layout_marginTop="96dp"
+						android:layout_width="274dp"
+						android:layout_height="55dp" />
+
+					<ImageView android:id="@+id/login_id_space_ek1"
+						android:src="@drawable/login_id_space_ek1"
+						android:contentDescription="login_id_space_ek1"
+						 android:layout_marginStart="22dp"
+						android:layout_marginTop="181dp"
+						android:layout_width="274dp"
+						android:layout_height="55dp" />
+
+					<ImageView android:id="@+id/login_id_space_ek2"
+						android:src="@drawable/login_id_space_ek2"
+						android:contentDescription="login_id_space_ek2"
+						 android:layout_marginStart="22dp"
+						android:layout_marginTop="433dp"
+						android:layout_width="274dp"
+						android:layout_height="55dp" />
+
+					<ImageView android:id="@+id/login_id_space_ek3"
+						android:src="@drawable/login_id_space_ek3"
+						android:contentDescription="login_id_space_ek3"
+						 android:layout_marginStart="22dp"
+						android:layout_marginTop="348dp"
+						android:layout_width="274dp"
+						android:layout_height="55dp" />
+
+					<ImageView android:id="@+id/login_id_space_ek4"
+						android:src="@drawable/login_id_space_ek4"
+						android:contentDescription="login_id_space_ek4"
+						 android:layout_marginStart="22dp"
+						android:layout_marginTop="263dp"
+						android:layout_width="274dp"
+						android:layout_height="55dp" />
+
+					<TextView android:id="@+id/enter_your_phone_number"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="-9dp"
+						android:layout_marginTop="116dp"
+						android:layout_width="315dp"
+						android:layout_height="28.5dp"
+						android:text="@string/enter_your_phone_number_string"
+						 />
+
+					<TextView android:id="@+id/enter_your_full_name"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="-25dp"
+						android:layout_marginTop="199dp"
+						android:layout_width="315dp"
+						android:layout_height="28.5dp"
+						android:text="@string/enter_your_full_name_string"
+						 />
+
+					<TextView android:id="@+id/abhyasika_id"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="-53dp"
+						android:layout_marginTop="283dp"
+						android:layout_width="315dp"
+						android:layout_height="28.5dp"
+						android:text="@string/abhyasika_id_string"
+						 />
+
+					<TextView android:id="@+id/password"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="-57dp"
+						android:layout_marginTop="368dp"
+						android:layout_width="315dp"
+						android:layout_height="28.5dp"
+						android:text="@string/password_string"
+						 />
+
+					<TextView android:id="@+id/confirm_password"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="15sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="-32dp"
+						android:layout_marginTop="453dp"
+						android:layout_width="315dp"
+						android:layout_height="28.5dp"
+						android:text="@string/confirm_password_string"
+						 />
+
+					<ImageView android:id="@+id/login_button"
+						android:src="@drawable/login_button"
+						android:contentDescription="login_button"
+						 android:layout_marginStart="152dp"
+						android:layout_marginTop="515dp"
+						android:layout_width="136dp"
+						android:layout_height="32dp" />
+
+					<TextView android:id="@+id/register_ek3"
+						android:fontFamily="Patua One"
+						android:layout_gravity="center_horizontal|center"
+						android:gravity="center"
+						android:textSize="14sp"
+						android:textColor="@color/enter_your_phone_number_color"
+						android:layout_marginLeft="67dp"
+						android:layout_marginTop="524dp"
+						android:layout_width="314dp"
+						android:layout_height="24dp"
+						android:text="@string/register_ek3_string"
+						 />
+
+				</RelativeLayout>
+
+				<ImageView android:id="@+id/vector"
+					android:src="@drawable/vector"
+					android:contentDescription="vector"
+					 android:layout_marginStart="15dp"
+					android:layout_marginTop="42dp"
+					android:layout_width="21.88dp"
+					android:layout_height="21.32dp" />
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
