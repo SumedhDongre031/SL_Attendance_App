@@ -1,6 +1,6 @@
+package com.example.exportdesign.figma;
 
-	 
-	/*
+/*
 	 *	This content is generated from the API File Info.
 	 *	(Alt+Shift+Ctrl+I).
 	 *
@@ -13,9 +13,7 @@
 	 *	@generator 	Export Kit v1.3.figma
 	 *
 	 */
-	
 
-package com.exportkit.figma;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -24,6 +22,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 import android.widget.ImageView;
+
+import com.example.myapplication.R;
+
 
 public class register_activity extends Activity {
 
@@ -51,7 +52,7 @@ public class register_activity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.register);
 
-		
+
 		_bg__register_ek2 = (View) findViewById(R.id._bg__register_ek2);
 		rectangle_1 = (View) findViewById(R.id.rectangle_1);
 		new_user___enter_your_details = (TextView) findViewById(R.id.new_user___enter_your_details);
