@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- register strings -->
+
+	<string name="app_name">2nd</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="new_user___enter_your_details_string">New User ?Enter Your Details</string>
+	<string name="enter_your_phone_number_string">Enter Your Phone Number</string>
+	<string name="enter_your_full_name_string">Enter Your Full name</string>
+	<string name="abhyasika_id_string">Abhyasika ID</string>
+	<string name="password_string">Password</string>
+	<string name="confirm_password_string">Confirm Password</string>
+	<string name="register_ek3_string">Register</string>
+</resources>
